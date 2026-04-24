@@ -3,17 +3,16 @@
   <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/tenor.gif" width="100%" />
 </p>
 
-# ⚡ Adarsh Singh | VIT
+# ⚡ Adarsh Singh (adar-shh04)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF003C&size=28&center=true&vCenter=true&width=800&lines=Aspiring+SDE+%7C+20%2B+LPA+Mission;AI+%2B+Backend+Engineer;I+Build+Systems+That+Scale;Consistency+%3E+Motivation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF003C&size=28&center=true&vCenter=true&width=800&lines=AI+%2B+Backend+Engineer;Building+Scalable+Systems;Turning+Ideas+Into+Real+Products;Consistency+%3E+Motivation">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-* 🎯 Mission: **Expanding capabilities**
 * 📚 Currently grinding: **DSA + System Design**
 * 🧠 Focus: **Backend Systems, AI, Scalable Products**
 * 🚀 Builder mindset > tutorial watcher
@@ -89,7 +88,7 @@
 
 ## ⚡ Philosophy
 
+> Build. Break. Learn. Repeat.
 > You don’t get paid for effort.
-> You get paid for **impact**.
-
+> You get paid for impact.
 ---
