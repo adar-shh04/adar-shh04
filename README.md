@@ -1,45 +1,82 @@
 ## Hi there 👋
-# ⚡ Adarsh Singh | VIT
+<p align="center">
+  <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/tenor.gif" width="100%" />
+</p>
+
+# ⚡ Adarsh Singh (adar-shh04)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF003C&size=28&center=true&vCenter=true&width=800&lines=Aspiring+SDE+%7C+20%2B+LPA+Mission;AI+%2B+Backend+Engineer;I+Build+Systems+That+Scale;Consistency+%3E+Motivation">
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 📚 Grinding: **DSA + System Design**
-* 🧠 Interested in: AI, Backend Systems, Product Engineering
+* 🎯 Mission: **Crack 20+ LPA SDE role**
+* 📚 Currently grinding: **DSA + System Design**
+* 🧠 Focus: **Backend Systems, AI, Scalable Products**
+* 🚀 Builder mindset > tutorial watcher
+* 🎸 Fingerstyle guitarist (rare but elite)
 
 ---
 
 ## ⚡ Tech Stack
 
- 
+### 💻 Core Languages
 
-💻 Programming → 🗄️ SQL, ⚙️ C++, ☕ Java, 🐍 Python, 📊 R (Basics), 🌐 HTML, 🎨 CSS, ⚡ JavaScript
-📊 Data & Analysis → 📈 Excel, 🗄️ SQL, 📊 Power BI, 📑 Google Sheets, 🍃 MongoDB
-🌐 Web & App Dev → ⚛️ React, 🟢 Node.js, 🚂 Express, 🌶️ Flask, 🔥 Firebase, 🌍 GitHub Pages
-📚 Libraries & APIs → 🐼 Pandas, 🔢 NumPy, 📉 Matplotlib, 🔐 JWT, 🌦️ OpenWeatherMap
-🛠️ Tools & Platforms → 🗄️ MySQL, 💻 VS Code, 🐧 Linux OS, 🪟 Windows, 🐙 GitHub, 🎨 Canva
+`C++` `Java` `Python` `JavaScript` `SQL`
 
-  
+### 🌐 Development
+
+`React` `Node.js` `Express` `Flask` `MongoDB` `Firebase`
+
+### 📊 Data & ML
+
+`Pandas` `NumPy` `Matplotlib` `Power BI` `Excel`
+
+### 🛠️ Tools
+
+`Git` `GitHub` `Linux` `VS Code`
 
 ---
 
 ## 🚀 Featured Projects
 
-* 🧠 **Vitamin Vision** – AI-powered nutrition analysis
-* ⚙️ More coming soon...
+### 🧠 Vitamin Vision
+
+> AI-powered nutrition analysis system
+
+* Image → Nutrition insights
+* ML + backend pipeline
+* Real-world health use case
+
+🚧 Improving: Accuracy + UI + deployment
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adar-shh04&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adar-shh04&theme=radical" height="160"/>
+</p>
+
 ---
 
-## 🧬 Contribution Graph
+## 🧬 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adar-shh04&theme=react-dark"/>
+</p>
 
 ---
 
-## 🐍 Snake Eating Contributions
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/adar-shh04/adar-shh04/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
@@ -50,7 +87,9 @@
 
 ---
 
-## ⚡ Motto
+## ⚡ Philosophy
 
-> Build. Break. Learn. Repeat.
+> You don’t get paid for effort.
+> You get paid for **impact**.
 
+---
