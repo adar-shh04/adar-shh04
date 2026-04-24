@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm a passionate developer with a keen interest in web development, generative AI, and machine learning. I love building new and exciting projects that push the boundaries of technology. Let's create something amazing together!
 <p align="center">
   <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/tenor.gif" width="100%" />
 </p>
