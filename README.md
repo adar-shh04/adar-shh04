@@ -1,16 +1,56 @@
 ## Hi there 👋
+# ⚡ Adarsh Singh | VIT
 
-<!--
-**adar-shh04/adar-shh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📚 Grinding: **DSA + System Design**
+* 🧠 Interested in: AI, Backend Systems, Product Engineering
+
+---
+
+## ⚡ Tech Stack
+
+ 
+
+💻 Programming → 🗄️ SQL, ⚙️ C++, ☕ Java, 🐍 Python, 📊 R (Basics), 🌐 HTML, 🎨 CSS, ⚡ JavaScript
+📊 Data & Analysis → 📈 Excel, 🗄️ SQL, 📊 Power BI, 📑 Google Sheets, 🍃 MongoDB
+🌐 Web & App Dev → ⚛️ React, 🟢 Node.js, 🚂 Express, 🌶️ Flask, 🔥 Firebase, 🌍 GitHub Pages
+📚 Libraries & APIs → 🐼 Pandas, 🔢 NumPy, 📉 Matplotlib, 🔐 JWT, 🌦️ OpenWeatherMap
+🛠️ Tools & Platforms → 🗄️ MySQL, 💻 VS Code, 🐧 Linux OS, 🪟 Windows, 🐙 GitHub, 🎨 Canva
+
+  
+
+---
+
+## 🚀 Featured Projects
+
+* 🧠 **Vitamin Vision** – AI-powered nutrition analysis
+* ⚙️ More coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🧬 Contribution Graph
+
+---
+
+## 🐍 Snake Eating Contributions
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/adarshh13/
+* 🌍 Portfolio: https://mlgadarsh.vercel.app/
+
+---
+
+## ⚡ Motto
+
+> Build. Break. Learn. Repeat.
+
