@@ -1,7 +1,7 @@
 ## Hi there 
-I'm a passionate developer with a keen interest in web development, generative AI, and machine learning. 
-I love building new and exciting projects that push the boundaries of technology. 
-Let's create something amazing together!
+I'm an AI engineer building retrieval and LLM infrastructure in Python: hybrid search measured on public benchmarks, a LangGraph research workflow with verified citations, and an OpenAI-compatible LLM gateway. 
+My evaluations report what didn't work as well as what did. 
+B.Tech, Electronics and Computer Engineering, VIT Chennai (2026). Open to AI engineer and backend roles.
 <p align="center">
   <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/tenor.gif" width="100%" />
 </p>
@@ -16,9 +16,9 @@ Let's create something amazing together!
 
 ##  About Me
 
+*  Building: **RAG systems, LLM gateways and the evaluations behind them**
+*  Focus: **AI Engineering, Backend Systems, Retrieval & Evaluation**
 *  Currently grinding: **DSA + System Design**
-*  Focus: **Backend Systems, AI, Scalable Products**
-*  Builder mindset > tutorial watcher
 *  Fingerstyle guitarist (rare but elite)
 
 ---
@@ -27,33 +27,55 @@ Let's create something amazing together!
 
 ###  Core Languages
 
-`C++` `Java` `Python` `JavaScript` `SQL`
+`Python` `TypeScript` `JavaScript` `SQL`
 
-###  Development
+###  LLM & Retrieval
 
-`React` `Node.js` `Express` `Flask` `MongoDB` `Firebase`
+`LangGraph` `RAG` `Hybrid search (BM25 + dense)` `Reciprocal rank fusion` `Cross-encoder reranking` `Qdrant` `Semantic caching`
 
-###  Data & ML
+###  Evaluation & ML
 
-`Pandas` `NumPy` `Matplotlib` `Power BI` `Excel`
+`BEIR` `nDCG / Recall / MRR` `Bootstrap CIs` `MLflow` `scikit-learn` `XGBoost` `LightGBM` `SHAP` `TensorFlow`
+
+###  Backend
+
+`FastAPI` `NestJS` `Node.js` `PostgreSQL` `Prisma` `Redis` `Celery` `MongoDB`
+
+###  Frontend
+
+`React` `Next.js` `Tailwind CSS`
 
 ###  Tools
 
-`Git` `GitHub` `Linux` `VS Code`
+`Docker` `GitHub Actions` `OpenTelemetry` `pytest` `Jest` `Git` `Linux`
 
 ---
 
 ##  Featured Projects
 
-###  Vitamin Vision
+###  [Mezvuat AI](https://github.com/adar-shh04/Mezvuat-AI)
 
-> AI-powered nutrition analysis system
+> Research assistant with hybrid retrieval and verified citations
 
-* Image → Nutrition insights
-* ML + backend pipeline
-* Real-world health use case
+* BM25 + dense search fused with RRF, over PostgreSQL and Qdrant
+* nDCG@10 0.723 vs 0.679 for BM25 on BEIR SciFact (p < 0.001)
+* Bounded LangGraph workflow that checks every citation against the source span
 
- Improving: Accuracy + UI + deployment
+###  [ModelMesh](https://github.com/adar-shh04/ModelMesh)
+
+> Self-hostable, OpenAI-compatible LLM gateway
+
+* Gemini, Groq, OpenRouter and Ollama behind one API
+* Retries, circuit breakers, fallback, per-key limits, semantic caching
+* Learned router benchmarked against a rules baseline (not promoted yet)
+
+###  [CareerOS](https://github.com/adar-shh04/CareerOS)
+
+> Multi-tenant career platform (Next.js + NestJS)
+
+* Workspace isolation enforced in PostgreSQL, Better Auth sessions
+* AES-256-GCM encryption for users' own LLM API keys
+* 340+ Jest tests in CI, 15 architecture decision records
 
 ---
 
